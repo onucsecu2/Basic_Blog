@@ -19,7 +19,7 @@ class Status extends Migration
             $table->Text('status_heading_text');
             $table->string('type');
             $table->integer('user_id');
-            $table->boolean('approval');
+            $table->boolean('approval',0);
             $table->timestamps();
         });
     }
