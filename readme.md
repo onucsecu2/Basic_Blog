@@ -23,6 +23,8 @@ Starting :
       php artisan migrate
       <br>
     ->php artisan serve
+    <br>
+    -> See routes>web.php for admin login page and use tinker shell to register as admin
   <br>
 ***I used Eclipse Oxygen IDE for project.Eclipse is quite disturbing in windows though its very helpful.
 :) happy coding.
