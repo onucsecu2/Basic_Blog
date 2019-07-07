@@ -29,5 +29,5 @@ Starting :
 ***I used Eclipse Oxygen IDE for project.Eclipse is quite disturbing in windows though its very helpful.
 :) happy coding.
 <br>
-[if any there lies any mistake,feel free to tell me ] 
+[if there lies any mistake,feel free to tell me ] 
 <br>
